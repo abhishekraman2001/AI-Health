@@ -1,0 +1,7 @@
+*.csv
+*.csv.gz
+*.pptx
+~$*.pptx
+.DS_Store
+__pycache__/
+*.pyc
